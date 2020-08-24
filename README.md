@@ -19,7 +19,7 @@ I'm Andrew, a frontend developer / guitar nerd with UX design experience based i
 - 👀 I'm actively looking for a new junior-to-mid-level frontend role
 - 👨🏽‍💻 I'm currently working on [FretZone](https://github.com/dawneraq/fret-zone) and a new portfolio site
 - 🌱 I'm currently learning:
-  - React, Redux, Gatsby, react-spring, and hydra
+  - React, Redux, 11ty, react-spring, and hydra
   - Somewhere between 4-79 songs
 - 💬 Ask me about prog metal, jazz, or The Food Lab
 - 📫 How to reach me: https://dawneraq.github.io/
