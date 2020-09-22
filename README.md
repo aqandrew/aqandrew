@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 I'm Andrew, a frontend developer / guitar nerd with UX design experience based in Southern California. My interests are in modern JavaScript and interactive visual experiences.
 
 - 👀 I'm actively looking for a new junior-to-mid-level frontend role
-- 👨🏽‍💻 I'm currently working on [FretZone](https://github.com/dawneraq/fret-zone) and a new portfolio site
+- 👨🏽‍💻 I'm currently working on [FretZone](https://github.com/dawneraq/fret-zone)
 - 🌱 I'm currently learning:
   - React, Redux, 11ty, react-spring, and hydra
   - Somewhere between 4-79 songs
 - 💬 Ask me about prog metal, jazz, or The Food Lab
-- 📫 How to reach me: https://dawneraq.github.io/
+- 📫 How to reach me: [Twitter](https://twitter.com/aqandrew) or [email](mailto:hi@aqandrew.com)
