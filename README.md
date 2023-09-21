@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Andrew, a frontend developer / guitar nerd with UX design experience based in Southern California. My interests are in modern JavaScript and interactive visual experiences.
+I'm Andrew, a frontend developer / guitar nerd with UX design experience, based in Southern California. My interests are in modern JavaScript and interactive visual experiences.
 
-- 👨🏽‍💻 I'm currently working on [FretZone](https://github.com/dawneraq/fret-zone)
+- 👨🏽‍💻 I'm currently working on [svelte-onion](https://github.com/aqandrew/svelte-onion), [531](https://github.com/aqandrew/531), and [FretZone](https://fret.zone/)
 - 🌱 I'm currently learning:
-  - React, GraphQL, Eleventy, react-three-fiber, and hydra
-  - Somewhere between 4-79 songs
+  - [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) and [hydra](https://hydra.ojack.xyz/)
+  - somewhere between 4-79 songs
 - 💬 Ask me about prog metal, jazz, or The Food Lab
 - 📫 How to reach me: [Twitter](https://twitter.com/aqandrew) or [email](mailto:hi@aqandrew.com)
