@@ -1,6 +1,6 @@
 # Hi! 👋🏽
 <!--
-**dawneraq/dawneraq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aqandrew/aqandrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Andrew, a frontend developer / guitar nerd with UX design experience, based in Southern California. My interests are in modern JavaScript and interactive visual experiences.
+I'm Andrew, a frontend software engineer in Southern California. My specialties are CSS/animation, modern JavaScript (React, Svelte), and interactive visual experiences (data visualization with D3, three.js).
 
 - 👨🏽‍💻 I'm currently working on [svelte-onion](https://github.com/aqandrew/svelte-onion), [531](https://github.com/aqandrew/531), and [FretZone](https://fret.zone/)
 - 🌱 I'm currently learning:
@@ -22,3 +22,6 @@ I'm Andrew, a frontend developer / guitar nerd with UX design experience, based 
   - somewhere between 4-79 songs
 - 💬 Ask me about prog metal, jazz, or The Food Lab
 - 📫 How to reach me: [Twitter](https://twitter.com/aqandrew) or [email](mailto:hi@aqandrew.com)
+- ⚡ Fun fact: Two of my CodePens have been picked for CodePen's front page.
+  1. [React music visualizer](https://codepen.io/aqandrew/pen/OJVNRgV)
+  2. [ginger beer cat infinite zoom](https://codepen.io/aqandrew/pen/NWNzJNN)
