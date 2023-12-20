@@ -18,8 +18,9 @@ I'm Andrew, a frontend software engineer in Southern California. My specialties 
 
 - 👨🏽‍💻 I'm currently working on [svelte-onion](https://github.com/aqandrew/svelte-onion), [531](https://github.com/aqandrew/531), and [FretZone](https://fret.zone/)
 - 🌱 I'm currently learning:
-  - [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction) and [hydra](https://hydra.ojack.xyz/)
-  - somewhere between 4-79 songs
+  - [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
+  - [react-three-fiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+  - how to play [octavina](https://en.wikipedia.org/wiki/Octavina)
 - 💬 Ask me about prog metal, jazz, or The Food Lab
 - 📫 How to reach me: [Twitter](https://twitter.com/aqandrew) or [email](mailto:hi@aqandrew.com)
 - ⚡ Fun fact: Two of my CodePens have been picked for CodePen's front page.
