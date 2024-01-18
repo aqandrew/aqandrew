@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 👋🏽 I'm Andrew, a frontend developer in Southern California. My specialties are **CSS/animation**, **modern JavaScript** (React, Svelte), and **interactive visual experiences** (data visualization with D3, three.js).
 
-- 👨🏽‍💻 I'm currently working on [svelte-onion](https://github.com/aqandrew/svelte-onion) and a few React side projects:
+- 👨🏽‍💻 I'm currently working on [svelte-onion](https://github.com/aqandrew/svelte-onion) and a few React projects:
+  - [baybayin](https://github.com/aqandrew/baybayin)
   - [531](https://github.com/aqandrew/531)
   - [crayola-oklch](https://github.com/aqandrew/crayola-oklch)
   - [kulintang](https://github.com/aqandrew/kulintang)
