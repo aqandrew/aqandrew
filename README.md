@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 - 👨🏽‍💻 I'm currently working on [svelte-onion](https://github.com/aqandrew/svelte-onion) and a few React projects:
   - [baybayin](https://github.com/aqandrew/baybayin)
-  - [531](https://github.com/aqandrew/531)
   - [crayola-oklch](https://github.com/aqandrew/crayola-oklch)
   - [kulintang](https://github.com/aqandrew/kulintang)
   - [FretZone](https://fret.zone/)
