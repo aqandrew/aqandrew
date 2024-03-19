@@ -21,8 +21,7 @@ Here are some ideas to get you started:
   - [kulintang](https://github.com/aqandrew/kulintang)
   - [FretZone](https://fret.zone/)
 - 🌱 I'm currently learning:
-  - [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
-  - [react-three-fiber](https://aqandrew.com/blog/10-sided-die-react/)
+  - [three.js](https://threejs-journey.com/)
   - how to play [octavina](https://en.wikipedia.org/wiki/Octavina)
 - 💬 Ask me about prog metal, jazz, or The Food Lab
 - 📫 How to reach me: [Twitter](https://twitter.com/aqandrew) or [email](mailto:hi@aqandrew.com)
