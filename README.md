@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   - [three.js](https://threejs-journey.com/)
   - how to play [octavina](https://en.wikipedia.org/wiki/Octavina)
 - 💬 Ask me about prog metal, jazz, or The Food Lab
-- 📫 How to reach me: [Twitter](https://twitter.com/aqandrew) or [email](mailto:hi@aqandrew.com)
+- 📫 How to reach me: [Bluesky](https://bsky.app/profile/aqandrew.com) or [email](mailto:hi@aqandrew.com)
 - ⚡ Fun fact: Two of my CodePens have been picked for CodePen's front page.
   1. [React music visualizer](https://codepen.io/aqandrew/pen/OJVNRgV)
   2. [ginger beer cat infinite zoom](https://codepen.io/aqandrew/pen/NWNzJNN)
